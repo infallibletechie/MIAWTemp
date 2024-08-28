@@ -7,7 +7,6 @@
          
             window.addEventListener("onEmbeddedMessagingReady", () => {
                 console.log("onEmbeddedMessagingReady emitted");
-                fetchAndSetToken();
             });
             window.addEventListener("onEmbeddedMessagingWindowMaximized", (e) => {
                 console.log("Received the onEmbeddedMessagingWindowMaximized event…" + JSON.stringify(e.detail));
