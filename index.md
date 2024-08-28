@@ -71,11 +71,11 @@
 			embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
 
 			embeddedservice_bootstrap.init(
-				'00Dau000002ItPt',
+				'00DWs0000032Xm9',
 				'MIAW',
-				'https://infallibletechiemiaworg.my.site.com/ESWMIAW1720544291552',
+				'https://infallibletechie4-dev-ed.develop.my.site.com/ESWMIAW1724880016303',
 				{
-					scrt2URL: 'https://infallibletechiemiaworg.my.salesforce-scrt.com'
+					scrt2URL: 'https://infallibletechie4-dev-ed.develop.my.salesforce-scrt.com'
 				}
 			);
 		} catch (err) {
@@ -83,7 +83,7 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://infallibletechiemiaworg.my.site.com/ESWMIAW1720544291552/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://infallibletechie4-dev-ed.develop.my.site.com/ESWMIAW1724880016303/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 
     </body>
   </html>
