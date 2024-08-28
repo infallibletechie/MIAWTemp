@@ -3,8 +3,7 @@
       <title>Messaging</title>
     </head>
     <body>        
-        <script type='text/javascript'>
-         
+        <script type='text/javascript'>         
             window.addEventListener("onEmbeddedMessagingReady", () => {
                 console.log("onEmbeddedMessagingReady emitted");
             });
